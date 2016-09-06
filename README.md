@@ -1,8 +1,10 @@
 # scafSeqContigInfo
 
 ### Contents
-scafSeqContigInfo.py : Python script that calculates assembly statistics at the scaffold level as well as a summary set of statistics.  
-scafSeqContigInfo.sh : wrapper shell script for scafSeqContigInfo.py with specific options to calculate assembly summary statistics, skipping statistics on each individual scaffold. It calculates the statistics on all scaffolds and after excluding scaffolds smaller than three length cutoffs (201 nt, 300 nt, 1,000 nt).  
+#### scafSeqContigInfo.py
+Python script that calculates assembly statistics at the scaffold level as well as a summary set of statistics.  
+#### scafSeqContigInfo.sh
+wrapper shell script for scafSeqContigInfo.py with specific options to calculate assembly summary statistics, skipping statistics on each individual scaffold. It calculates the statistics on all scaffolds and after excluding scaffolds smaller than three length cutoffs (201 nt, 300 nt, 1,000 nt).  
 
 ### Usage
 $ git clone https://github.com/calacademy-research/scafSeqContigInfo.git  
