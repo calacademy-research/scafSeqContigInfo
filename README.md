@@ -44,3 +44,6 @@ It takes the scaffold fasta file and an assembly prefix for the output file as a
 
 Code author: James B. Henderson, jhenderson@calacademy.org  
 README.md authors: Zachary R. Hanna, James B. Henderson  
+
+#### Version 1.0.0
+[![DOI](https://zenodo.org/badge/67550118.svg)](https://zenodo.org/badge/latestdoi/67550118)
